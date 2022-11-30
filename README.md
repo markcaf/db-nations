@@ -8,5 +8,5 @@ db-nations
 4. Modificare il programma precedente in modo che richieda all'utente una stringa da ricercare tra i nomi delle nazioni utilizzando i `PreparedStatement` con i parametri come visto in classe
 
 #### *BONUS*
-5. Dopo aver effettuato la ricerca, richiede all'utente un `id` su cui effettuare ulteriori analisi restituendo *tutte le lingue parlate* + le statistiche piu' recenti della nazione
-![[Pasted image 20221130170806.png]]
+5. Dopo aver effettuato la ricerca, richiede all'utente un `id` su cui effettuare ulteriori analisi restituendo *tutte le lingue parlate* + le statistiche piu' recenti della nazione<br>
+<img src="https://i.ibb.co/N20qVTD/Pasted-image-20221130170806.png" alt="Pasted-image-20221130170806" border="0">
